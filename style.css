@@ -359,6 +359,17 @@ nav{
     font-size: 14px;
     color: #555;
 }
+
+#h_list li {
+    background: #f5f5f5;
+    padding: 10px 12px;
+    border-radius: 12px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    font-family: "Inter", sans-serif;
+}
 /* end */
 
 /* Mobile responsiveness */
@@ -431,3 +442,4 @@ nav{
 }
 
 /* end */
+
