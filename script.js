@@ -1,4 +1,4 @@
-// copy section
+// copy button section
 let value = 0; 
 const display = document.getElementById("copy_no");
 const cpy_bt = document.querySelectorAll(".copy-b");
@@ -110,3 +110,4 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 });
 //end
+
