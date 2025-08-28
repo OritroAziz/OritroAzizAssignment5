@@ -385,28 +385,9 @@ nav{
     .card{
         grid-column: 2;
         margin-bottom: 20px;
-        padding: 30px 10px;
     }
-    .icon_heart{
-        font-size: 30px;
-       margin-left: 330px;
-        
 
-    }
-.mb{
-    gap: 20px;
-}
-.copy-b{
-    height: 50px;
-    width: 155px;
-}
-.call-b{
-    height: 50px;
-    width: 155px;
-}
 
-.bold{
-    font-size: 30px;
 }
 .main{
     display: block;
