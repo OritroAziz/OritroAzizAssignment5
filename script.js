@@ -95,12 +95,12 @@ document.addEventListener("DOMContentLoaded", function () {
       const time = getCurrentTime();
       const li = document.createElement("li");
       li.innerHTML = `
-        <div style="display:flex; justify-content:space-between;">
-          <span style="font-weight:bold;">${name}</span>
-          <span style="font-weight:400">${time}</span>
-        </div>
-        <div>${number}</div>
-      `;
+                    <div>
+                      <span>${name}</span>
+                      <span>${time}</span>
+                    </div>
+                    <div>${number}</div>
+                  `;
       h_list.appendChild(li);
     });
   });
@@ -110,4 +110,5 @@ document.addEventListener("DOMContentLoaded", function () {
   });
 });
 //end
+
 
