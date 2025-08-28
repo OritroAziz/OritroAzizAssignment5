@@ -385,7 +385,7 @@ nav{
     .card{
         grid-column: 2;
         margin-bottom: 20px;
-        padding: 30px 20px;
+        padding: 30px 10px;
     }
     .icon_heart{
         font-size: 30px;
@@ -398,11 +398,11 @@ nav{
 }
 .copy-b{
     height: 50px;
-    width: 175px;
+    width: 155px;
 }
 .call-b{
     height: 50px;
-    width: 175px;
+    width: 155px;
 }
 
 .bold{
@@ -426,20 +426,12 @@ nav{
     font-size: auto;
 }
 .coin{
-    width: 86px;
-    height: 32px;
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
-    border-radius: 50px;
-    background: rgba(65, 255, 107, 0.1);
-    align-items: center;
-    justify-content: center;
-    font-weight: 700;
-    font-size: auto;
+   
+    display: none;
 }
 
 }
 
 /* end */
+
 
